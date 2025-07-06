@@ -33,4 +33,6 @@ int main()
 	reult=num1 /num2;
 	printf("result of %f / %f is %2f",num1,num2,res);
 
+	
+
 	return 0;
